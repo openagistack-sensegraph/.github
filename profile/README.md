@@ -1,4 +1,4 @@
-# Open AGI Stack Semantic
+# Open AGI Stack SenseGraph
 ## Intelligence into the products
 ### The Semantic Intelligence for enterprise AI
 
