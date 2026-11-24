@@ -17,7 +17,7 @@
 
 Natural human language is messy, casual, and ambiguous. **SenseGraph** translates unstructured user queries into grounded, deterministic **knowledge graphs** and **scoped vector retrieval**, so agents can act on meaning rather than surface text.
 
-Start with ready-made **ontology starter packs** such as **Enterprise Core** and **Healthcare Core**, written in **Turtle** or **RDF/XML**. Then shape them into a semantic intelligence that is fully grounded in your organization's approved vocabulary.
+Start with ready-made **ontology starter packs** such as **Enterprise Core** and Industry related packs like **Healthcare Core**, written in **Turtle** or **RDF/XML**. Then shape them into a semantic intelligence that is fully grounded in your organization's approved vocabulary.
 
 [![SenseGraph 6-Stage Pipeline](../assets/semantic-intelligence-sensegraph.png)](https://www.openagistack.com/images/products/semantic-intelligence-sensegraph.png)
 
