@@ -9,7 +9,6 @@
 *From AI that sounds right to AI that understands.*
 *Give your AI the context your people already carry.*
 
-</div>
 
 [![Open AGI Stack Semantic Intelligence](/assets/semantic-intelligence.png)](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
 
@@ -143,3 +142,7 @@ Read [https://www.openagistack.com/articles/open-agi-stack-semantic-article/](ht
 ------------------------------------------------------------------------------------------------------------------------------------
 [![OpenAGI banner-3](/assets/banner-3.png)](https://go.openagi.codes)
 ------------------------------------------------------------------------------------------------------------------------------------
+
+**Open AGI Stack Semantics** · Semantic Intelligence for enterprise AI
+
+</div>
