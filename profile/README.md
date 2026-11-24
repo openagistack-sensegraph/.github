@@ -27,10 +27,13 @@ Start with ready-made **ontology starter packs** such as **Enterprise Core** and
 
 Most AI systems match text to text. SenseGraph matches **meaning** to **meaning**:
 
-- Raw user input is resolved into unambiguous concepts with persistent URIs.
-- The ontology graph defines strict, deterministic boundaries for what is relevant.
-- Vector and keyword engines rank results only inside those boundaries.
-- Every fact that reaches the model carries provenance, a timestamp, and the active ontology version.
+Raw user input is resolved into unambiguous concepts with persistent URIs.
+
+The ontology graph defines strict, deterministic boundaries for what is relevant.
+
+Vector and keyword engines rank results only inside those boundaries.
+
+Every fact that reaches the model carries provenance, a timestamp, and the active ontology version.
 
 The result is an agent that knows what the user meant, can explain how it got there, and stays inside the vocabulary your domain experts have approved.
 
@@ -120,7 +123,7 @@ Every fact retrieved carries its provenance receipt, timestamp, and active ontol
 
 ## Learn More
 
-- Product page: [openagistack.com](https://go.openagistack.com)
+Product page: [openagistack.com](https://go.openagistack.com)
 
 ---
 
